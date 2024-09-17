@@ -2,7 +2,7 @@
 ## About
 **Wild Rescue is a 2D RPG like game based group project for software engineering class.
 <br>
-
+<br>
 ## Further Information
 **Here is the canva link for the project presentation for further detail and game design preview = "https://www.canva.com/design/DAF-VwFZmg0/xO9bhoiVQjYZF0KuXAUUBg/edit"
 
